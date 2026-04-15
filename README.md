@@ -1,4 +1,4 @@
-# -Windows-on-M1-M2-M3-Macs-Apple-Silicon-Guide-
+windows-on-apple-silicon-macs
 This repository provides a complete guide on how to install and run Windows on Apple Silicon Macs (M1, M2, M3, and newer).  It covers different methods including Parallels Desktop and UTM, along with step-by-step, requirements, and troubleshooting tips.  This guide is intended for technicians, and everyday users who need Windows on Mac hardware.
 ## Contents
 - Overview
@@ -110,3 +110,24 @@ Always adjust:
 For best results:
 - Use at least **256GB SSD**
 - Allocate **64GB–128GB** to Windows
+## 🚀 What This Guide Covers
+
+- Installing Windows 11 ARM on M1/M2/M3 Macs
+- Using Parallels Desktop and UTM
+- Performance optimization (RAM, CPU, Storage)
+- Common mistakes and how to avoid them
+- Troubleshooting real-world issues
+- ## Why This Guide Matters
+
+Apple Silicon Macs do not support Boot Camp, meaning traditional Windows installation methods no longer work.
+
+Virtualization is now the primary method for running Windows, requiring proper configuration for performance and compatibility.
+## Recommended Setup
+
+| Component | Minimum | Recommended |
+|----------|--------|-------------|
+| RAM | 6GB | 8GB+ |
+| Mac RAM | 8GB | 16GB+ |
+| Storage | 64GB | 128GB |
+| SSD Size | 128GB | 256GB+ |
+| CPU Cores | 4 | 4–6 |

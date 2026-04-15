@@ -131,3 +131,13 @@ Virtualization is now the primary method for running Windows, requiring proper c
 | Storage | 64GB | 128GB |
 | SSD Size | 128GB | 256GB+ |
 | CPU Cores | 4 | 4–6 |
+## Screenshots (Coming Soon)
+
+Screenshots and step-by-step visuals will be added to demonstrate:
+
+- Parallels Desktop installation process
+- Windows 11 ARM setup
+- Resource allocation configuration (RAM, CPU, Storage)
+- Final working Windows environment on Apple Silicon
+
+> Note: Images will be captured from real-world installations to reflect accurate setup and troubleshooting scenarios.
